@@ -22,11 +22,11 @@ align-items: center;
 .container_imagem {
     padding: 1em;
 }
-.lista-meenu {
+.lista-menu {
     display: none;
 }
 
-.container_botao:checked ~ .lista-meenu {
-display: block;
+.container_botao:checked ~ .lista-menu{   
+    display: block;
 }
 
